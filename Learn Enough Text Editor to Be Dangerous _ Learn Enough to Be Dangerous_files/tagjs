@@ -1,0 +1,2 @@
+_pa.setPartners({mrin:true})
+_pa.looperReady()
